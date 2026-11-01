@@ -1,0 +1,79 @@
+{
+  "fill": {
+    "solid": "extended-srgb:1.00000,1.00000,1.00000,1.00000"
+  },
+  "groups": [
+    {
+      "layers": [
+        {
+          "image-name": "Flesh-1.svg",
+          "name": "Citrus segment 1",
+          "glass": true,
+          "opacity": 0.8
+        },
+        {
+          "image-name": "Flesh-2.svg",
+          "name": "Citrus segment 2",
+          "glass": true,
+          "opacity": 0.8
+        },
+        {
+          "image-name": "Flesh-3.svg",
+          "name": "Citrus segment 3",
+          "glass": true,
+          "opacity": 0.8
+        },
+        {
+          "image-name": "Flesh-4.svg",
+          "name": "Citrus segment 4",
+          "glass": true,
+          "opacity": 0.8
+        },
+        {
+          "image-name": "Flesh-5.svg",
+          "name": "Citrus segment 5",
+          "glass": true,
+          "opacity": 0.8
+        }
+      ],
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": true,
+        "value": 0.25
+      },
+      "specular": false,
+      "lighting": "individual"
+    },
+    {
+      "layers": [
+        {
+          "image-name": "Rind.svg",
+          "name": "Green rind",
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": true,
+        "value": 0.12
+      }
+    }
+  ],
+  "supported-platforms": {
+    "squares": "shared"
+  },
+  "fill-specializations": [
+    {
+      "appearance": "dark",
+      "value": {
+        "solid": "extended-srgb:0.06000,0.07500,0.06500,1.00000"
+      }
+    }
+  ]
+}
