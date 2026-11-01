@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/images/app-logo.png" alt="Linmon app logo" width="128" height="128">
+</p>
+
 # Linmon
 
 一款以青柠色与柠檬图表为视觉主题的 iOS 记账应用，使用 SwiftUI 构建，探索轻量、直观且富有触感的日常记账体验。
